@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+.*.swp
+.*.swo
+statistician.egg-info/*
+MANIFEST.in
+build/*
+docs/build/*
+dist/*
+html/*
